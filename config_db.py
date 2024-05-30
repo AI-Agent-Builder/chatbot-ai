@@ -1,0 +1,5 @@
+DB_USER = 'postgres'
+DB_PASSWORD = 'postgres'
+DB_URL = '10.10.15.72'
+DB_PORT = '5432'
+DB_NAME = 'chatbot-ai'
